@@ -1,0 +1,6 @@
+{
+  "name": "QuadraMath 96 - Grade 10 Quadratic Reviewer",
+  "description": "Retro 1990s educational math reviewer for Grade 10 Nature of Roots and Determining Quadratic Functions with Practice Mode, Mock Tests, and Formula Reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
